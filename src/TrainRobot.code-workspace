@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "TrainRobot",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IOT2023"
+	}
+}
